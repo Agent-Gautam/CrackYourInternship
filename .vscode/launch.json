@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/repos/CrackYourInternship",
-      "program": "d:/repos/CrackYourInternship/build/Debug/outDebug",
+      "cwd": "d:/repos/CrackYourInternship/String",
+      "program": "d:/repos/CrackYourInternship/String/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
